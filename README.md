@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Jupyter Python Notebook, Github.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me on malindaweragama@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Malinda Bandara Weragama
 - ⚡ Fun fact: ...
 
 <!---
