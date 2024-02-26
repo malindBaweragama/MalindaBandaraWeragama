@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malindaBweragama
+- 👋 Hi, I’m @MalindaBandaraWeragama
 - 👀 I’m interested in learning computer science
 - 🌱 I’m currently learning Jupyter Python Notebook, Github.
 - 💞️ I’m looking to collaborate on GitHub
